@@ -1,0 +1,4 @@
+﻿  hello world etc.cpp
+C:\Users\hnrf\source\repos\hello world etc\hello world etc\hello world etc.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hnrf\source\repos\hello world etc\hello world etc\hello world etc.cpp(29,10): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+  hello world etc.vcxproj -> C:\Users\hnrf\source\repos\hello world etc\x64\Debug\hello world etc.exe
